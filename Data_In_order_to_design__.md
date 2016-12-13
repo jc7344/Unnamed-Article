@@ -14,4 +14,4 @@ In order to design a coherent spatial analysis experiment, it was necessary to i
 
 •	Poverty (Tabular data-ACS 2009-2012 estimates)
 
-•	Mean income in the past 12 months (in 2014 inflation-adjusted dollars) Tabular data-ACS 2009-2012 five year estimates.
+•	Median income in the past 12 months (in 2014 inflation-adjusted dollars) Tabular data-ACS 2009-2012 five year estimates.
