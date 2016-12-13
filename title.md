@@ -1,1 +1,1 @@
-LinkNYC internet access disparity in New York City Santiago Carrillo, jc7344
+LinkNYC internet access disparity in New York City. Santiago Carrillo, jc7344
