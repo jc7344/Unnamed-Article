@@ -1,4 +1,4 @@
-
+**Abstract**
 
 The notion of a digital divide has been increasingly addressed by policy makers for the last two decades. In the American context, the unequal access to, a recently constructed, cyberspace worried ex-President Bill Clinton short after the High-performance Computing legislation (1991) was introduced and both infrastructure and cost, prevented specific segments of the population from equal access to the internet. Today it is still possible to identify public efforts not only for increasing awareness about the divide, but also for bridging its gap. In the year 2013 the Census Bureau included questions regarding internet access for the first time in the federal agency’s history. The results of the survey highlighted the situation of hundreds of thousands of low-income Americans with no computer ownership and deficient access broadband.
 
