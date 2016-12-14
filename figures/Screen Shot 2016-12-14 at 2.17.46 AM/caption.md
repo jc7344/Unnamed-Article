@@ -1,1 +1,1 @@
-Replace this text with your caption
+<sub>**Graph 1 :** Above, the distributions of household median income and number of internet subscriptions</sub>
