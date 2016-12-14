@@ -1,1 +1,1 @@
-**Figure 2:** Above, column name "Qualifying Name' is replaced by "Community district"
+<sub>**Figure 2:** Above, column name "Qualifying Name' is replaced by "Community district"</sub>
