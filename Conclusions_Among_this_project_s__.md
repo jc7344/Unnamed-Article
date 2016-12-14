@@ -1,7 +1,7 @@
 **Conclusions**
 
 
-Among this project’s findings, it is possible to highlight the fact that more than 90% of all Links are installed in Manhattan. Additionally, and after analyzing socioeconomic data and information about internet use, Manhattan was also the borough with higher household median incomes and the largest number of internet connections. (See Graph 1). These findings confirmed the Comptroller’s analysis and generated questions about the real goal of LinkNYC as a project. 
+Among this project’s findings, it is possible to highlight the fact that more than 90% of all Links are installed in Manhattan (See Map 1). Additionally, and after analyzing socioeconomic data and information about internet use, Manhattan was also the borough with higher household median incomes and the largest number of internet connections. (See Graph 1). These findings confirmed the Comptroller’s analysis and generated questions about the real goal of LinkNYC as a project. 
 
 
 After employing a Z-test, a Z-statistic of 919 was obtained. From the Z-Table, this gave an area 0.9998. Thus, our p-value is (1 - 0.9998), or 0.0002, meaning there is a 0.02% probability that the difference observed between the two groups is due to chance alone. Specifically, this p-value is much smaller than the selected alpha level of 0.05, rejecting the proposed null hypothesis, and leading our study to conclude that the mean distance to LinkNYC kiosks for New Yorkers living below poverty is larger than the mean distance to LinkNYC kiosks for New Yorkers in low poverty.
