@@ -1,1 +1,1 @@
-Replace this text with your caption
+<sub>**Figure 3:** Above, internet use and median income data are merged based on "Community district"</sub>
