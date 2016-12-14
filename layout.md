@@ -4,4 +4,4 @@ figures/Screen Shot 2016-12-13 at 9.30.59 PM/Screen Shot 2016-12-13 at 9.30.59 P
 figures/Screen Shot 2016-12-13 at 9.52.18 PM/Screen Shot 2016-12-13 at 9.52.18 PM.png
 figures/Screen Shot 2016-12-13 at 10.14.16 PM/Screen Shot 2016-12-13 at 10.14.16 PM.png
 figures/Screen Shot 2016-12-13 at 10.27.06 PM/Screen Shot 2016-12-13 at 10.27.06 PM.png
-cell_type_markdown_metadata_source_IDEA__.md
+Methodology_Given_the_fact_that__.md
