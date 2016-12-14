@@ -1,1 +1,1 @@
-<sub>Above, the values under the column 'CB Link ID' are processed to extract only the numerical portion</sub>
+<sub>**Figure 1:** Above, the values under the column 'CB Link ID' are processed to extract only the numerical portion</sub>
