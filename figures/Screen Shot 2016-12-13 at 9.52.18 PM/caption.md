@@ -1,1 +1,1 @@
-Replace this text with your caption
+**Figure 2:** Above, column name "Qualifying Name' is replaced by "Community district"
