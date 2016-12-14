@@ -7,3 +7,4 @@ figures/Screen Shot 2016-12-13 at 10.27.06 PM/Screen Shot 2016-12-13 at 10.27.06
 Methodology_Given_the_fact_that__.md
 Conclusions_Among_this_project_s__.md
 figures/pui map/pui map.png
+figures/Screen Shot 2016-12-14 at 2.17.46 AM/Screen Shot 2016-12-14 at 2.17.46 AM.png
