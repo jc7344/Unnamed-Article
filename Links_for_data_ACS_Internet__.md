@@ -1,4 +1,5 @@
 **Links for data**
+Code for analysis, plots and maps: https://github.com/jc7344/PUI2016_jc7344/blob/master/Extra_Credit_jc7344/ExtraCredit_jc7344%20(2).ipynb
 
 ACS Internet and computer use: http://cosmo.nyu.edu/~fb55/PUI2016/data/ACS_Computer_Use_and_Internet_2014_1Year_Estimate.csv
 
