@@ -1,1 +1,1 @@
-Replace this text with your caption
+<sub>**Map 1:** Above, the current disposition of LinkNYC links throughout the city </sub>
