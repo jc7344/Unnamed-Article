@@ -1,1 +1,1 @@
-Replace this text with your caption
+Above, the values under the column 'CB Link ID' are processed to extract only the numerical portion
