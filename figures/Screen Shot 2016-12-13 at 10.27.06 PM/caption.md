@@ -1,1 +1,1 @@
-Replace this text with your caption
+<sub>**Figure 4:** Above, values from both spatial and tabular data are merged based on the column "GEOID"</sub>
